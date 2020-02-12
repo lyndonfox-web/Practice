@@ -1,0 +1,17 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "3D Animation with Blender 2.8 for beginners",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lyndon Fox",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
